@@ -1,6 +1,6 @@
 README
 
-Solves the QuantBet Developer Challenge.
+Solves the QBet Developer Challenge.
 
 The challenge is to calculate the greatest common denominator of two, randomly generated, numbers (such as 104167024 and 69778982) within a second of the webpage loading. 
 
